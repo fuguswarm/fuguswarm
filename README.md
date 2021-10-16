@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Plutus
 - 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me discord PlaPakPaoGSP#1510
+- 📫 How to reach me discord ManiaKugel#8740
 
 <!---
 fuguswarm/fuguswarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
