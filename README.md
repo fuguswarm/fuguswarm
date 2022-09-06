@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuguswarm
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Plutus
+- 🌱 I’m currently learning Haskell/Plutus
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me discord ManiaKugel#8740
 
