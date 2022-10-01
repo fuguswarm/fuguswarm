@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuguswarm
-- 👀 I’m interested in DeFi & Web 3 linkages
+- 👀 I’m interested in DeFi & Web 3
 - 🌱 I’m currently learning Haskell/Plutus
 - 💞️ I’m looking for Bridges & Builders (join us at https://t.me/DeveloperEcosystem)
 - 📫 How to reach me discord ManiaKugel#8740 
