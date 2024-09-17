@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuguswarm
 - 👀 I’m interested in DeFi & Web 3
-- 🌱 I’m currently learning Haskell/Plutus
-- 💞️ I’m looking for Bridges & Builders (join us at https://t.me/DeveloperEcosystem)
+- 🌱 For web 3 builders, join us at https://t.me/DeveloperEcosystem) and DM admin for opportunities.
+- 💞️ For partner projects, email me at june@blockcarbon.io  
 - 📫 How to reach me discord ManiaKugel#8740 
 
 <!---
