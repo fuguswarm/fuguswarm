@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuguswarm
-- 👀 Will see you next @ DevCon BKK 12-15 Nov
+- 👀 Will see you next @ ETHDenver
 - 🌱 For web 3 builders, join us at https://t.me/DeveloperEcosystem and DM admin for opportunities.
 - 💞️ For partner projects, email me at june@blockcarbon.io  
 - 📫 How to reach me @ discord ManiaKugel#8740 
